@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Html Css and Javascript
 - I’m looking forward to collaborate on developing and designing websites 
 - 📫 How to reach me
---You can reach me via my email keiveanjoh25@gmail.com
+--You can reach me via my email stephenchumbi43@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: A good programmer is someone who always looks both ways before crossing a one-way street
 
